@@ -2,7 +2,7 @@
 
 ### Personal information
 
-- github account: ''' @erlyandy '''
+- github account: *** @erlyandy ***
 - Email: ''' erlyandyndr@gmail.com '''
 - Arweave Address: '''' uc73-2yWvMpgBW12EiGLwStW0AvsQZ3gp1ebkmz9YRY '''
 - ETH Address: ''' 0x1621b5e3d14189543af543e6d5627dea7f5fa793 '''
